@@ -1,0 +1,17 @@
+img.logo{
+    width:60px;
+    height:60px
+}
+a.login{
+    position: absolute;
+  top: 50;
+  left: 70;
+}
+html, body,div.outer-container {
+    height: 100%;
+    width:100%;
+}
+img.social-media{
+    height:20px;
+    width:22px ;
+}

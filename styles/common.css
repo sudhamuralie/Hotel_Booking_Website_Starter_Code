@@ -4,14 +4,19 @@ img.logo{
 }
 a.login{
     position: absolute;
-  top: 50;
+  top: 40;
   left: 70;
 }
 html, body,div.outer-container {
+    margin: 0;
     height: 100%;
     width:100%;
+    background-color: #E0E0E0;
 }
 img.social-media{
     height:20px;
     width:22px ;
+}
+header,footer{
+    background-color: rosybrown;
 }
